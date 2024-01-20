@@ -1,14 +1,7 @@
-# Editor/IDE Setup for Competitive Programming.
-
-Competitive Programming is a popular competition where participants from all over the country compete using their programming skills. Time is very crucial when running on contest where saving a lot of time.
-
-While some code editors have many useful features, it is important to understand them well to make the most of them. Here is a feature that could be helpful.
-
 ## Installation On Visual Studio Code
 
 Create `main.js`, `input.txt`, and `output.txt` file.
 You might additionally require [Node.js](https://nodejs.org/en/download) to run the code
-Install [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) Extension.
 
 Create a `main.js` file containing your code, an `input.txt` file, which is what you will give, and an `output.txt` file, where the output of your code will be printed.
 
@@ -152,7 +145,3 @@ output.txt:
 ```
 hello: world
 ```
-
-## Authors
-
-- [@mahmudtitumir](https://www.github.com/mahmudtitumir)
