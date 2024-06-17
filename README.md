@@ -6,15 +6,16 @@ While some code editors have many useful features, it is important to understand
 
 ### List of Language
 
-- [JavaSrictp Setup](./js-cp_dsa.md)
-- [C++ Setup](./cpp-cp_dsa.md)
-- [Python Setup](./py-cp_dsa.md)
+-   [JavaSrictp Setup](./js.md)
+-   [C++ Setup](./cpp.md)
+-   [Python Setup](./py.md)
+-   [Java Setup](./java.md)
 
 > inspiration from:
 
-- takeuforward
-- RohitKaushal
+-   takeuforward
+-   RohitKaushal
 
 ## Authors
 
-- [@mahmudtitumir](https://www.github.com/mahmudtitumir)
+-   [@mahmudtitumir](https://www.github.com/mahmudtitumir)
