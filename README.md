@@ -6,10 +6,10 @@ While some code editors have many useful features, it is important to understand
 
 ### List of Language
 
--   [JavaSrictp Setup](./js.md)
--   [C++ Setup](./cpp.md)
--   [Python Setup](./py.md)
--   [Java Setup](./java.md)
+-   [JavaSrictp Setup](./javascript/readme.md)
+-   [C++ Setup](./cpp/readme.md)
+-   [Python Setup](./python/readme.md)
+-   [Java Setup](./java/readme.md)
 
 > inspiration from:
 
